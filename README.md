@@ -1,6 +1,6 @@
-# SimpleGPT
+# SimpleLLM
 
-A simple LLM built using Python, based on the bigram language model.
+A simple LLM built using Python, based on the bigram language model. Uses a GPT instead of the full transformer architecture for simplicity.
 
 ## Dependencies
 (assuming windows): `pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126`
