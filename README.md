@@ -10,6 +10,7 @@ This project started as a follow-along of freeCodeCamp's LLM [tutorial](https://
 (assuming windows): `pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126`
 
 NOTE: built on my laptop and trained on Microsoft Azure VM (without an NVIDIA GPU), `device` parameter defaulting to `'cpu'`, experiencing slower runtimes.
+
 2025/08/25 UPDATE: went home and got to use my PC with an NVIDIA, experiencing much faster training times
 
 ## GPU Migration
